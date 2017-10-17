@@ -1,0 +1,14 @@
+body {
+	background: gray;
+}
+
+a {
+	text-decoration: none;
+	font-size: 50px;
+	color: #00cc00;
+	font-family: arial;
+}
+
+a:hover {
+	color: red;
+}
